@@ -1,0 +1,26 @@
+Student Roster
+
+1235466
+Jane
+Foster
+CS
+3.24
+
+1244655
+Joseph
+Joestar
+Theater
+4.0
+
+46023987
+Cameron
+Johnson
+Psychology
+3.6
+
+39271650
+Grace
+Gonzalez
+Computer_Science
+3.8
+
